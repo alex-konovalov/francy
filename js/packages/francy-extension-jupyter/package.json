@@ -35,18 +35,18 @@
     "francy-renderer-vis": "^1.2.4"
   },
   "devDependencies": {
-    "@babel/cli": "7.10.4",
-    "@babel/core": "7.10.4",
-    "@babel/plugin-proposal-decorators": "7.10.4",
+    "@babel/cli": "7.11.6",
+    "@babel/core": "7.11.6",
+    "@babel/plugin-proposal-decorators": "7.10.5",
     "@babel/plugin-transform-classes": "7.10.4",
-    "@babel/plugin-transform-runtime": "7.10.4",
-    "@babel/polyfill": "7.10.4",
-    "@babel/preset-env": "7.10.4",
+    "@babel/plugin-transform-runtime": "7.11.5",
+    "@babel/polyfill": "7.11.5",
+    "@babel/preset-env": "7.11.5",
     "@jupyterlab/rendermime": "2.1.1",
     "@phosphor/widgets": "1.9.3",
     "babel-loader": "8.1.0",
-    "css-loader": "3.6.0",
-    "file-loader": "6.0.0",
+    "css-loader": "4.3.0",
+    "file-loader": "6.1.0",
     "json-loader": "0.5.7",
     "lodash.isequal": "4.5.0",
     "mkdirp": "1.0.4",
@@ -55,7 +55,7 @@
     "rimraf": "3.0.2",
     "style-loader": "1.2.1",
     "url-loader": "4.1.0",
-    "webpack": "4.43.0",
+    "webpack": "4.44.1",
     "webpack-cli": "3.3.12"
   }
 }
